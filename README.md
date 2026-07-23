@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
 <!--                   GITHUB PROFILE README                    -->
-<!--                    PART 1 - INTRODUCTION                   -->
+<!--                                                            -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -80,7 +80,7 @@ const deeksha = {
 
 <tr>
 <td>📍 Location</td>
-<td>India</td>
+<td>Hoshiarpur,Punjab</td>
 </tr>
 
 <tr>
@@ -148,7 +148,7 @@ const deeksha = {
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 </p>
 
@@ -202,19 +202,7 @@ maintainable, and enjoyable to improve later.
 - 📦 Project Architecture
 - 🔥 Performance Optimization
 - 🧩 Component Reusability
-
----
-
-# 🎯 2026 Developer Goals
-
-- Build more real-world projects
-- Contribute to Open Source
-- Improve Problem Solving
-- Master the MERN Stack
-- Learn Next.js
-- Learn TypeScript
-- Strengthen Backend Development
-
+**
 ---
 
 # 🌍 Let's Connect
@@ -242,13 +230,7 @@ maintainable, and enjoyable to improve later.
 
 </div>
 
-<!-- ========================================================= -->
-<!--                 END OF PART 1                             -->
-<!-- ========================================================= -->
 
-<!-- ========================================================= -->
-<!--                  PART 2 - PROJECT SHOWCASE                -->
-<!-- ========================================================= -->
 
 # 🚀 Things I've Built
 
@@ -279,14 +261,6 @@ A complete MERN Stack application that streamlines campus issue reporting, compl
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript"/>
 </p>
 
-<p align="center">
-
-<a href="https://deeksha-rana01/Smart-Campus-System.git">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
 ---
 
 ## 🍔 Food Ordering Website
@@ -308,14 +282,6 @@ A modern restaurant ordering platform featuring responsive UI, menu browsing, au
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/>
 </p>
 
-<p align="center">
-
-<a href="https://deeksha-rana01/Food-ordering-website.git">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
 ---
 
 ## 🧩 BrainByte Puzzle
@@ -334,15 +300,6 @@ An interactive puzzle platform where users solve exciting brain teasers with tim
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
-</p>
-
-<p align="center">
-
-<a href="https://deeksha-rana01/BrainByte-Puzzle.git">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-
 </p>
 
 ---
@@ -379,15 +336,6 @@ A data analysis project that uncovers insights from the Netflix dataset using Py
 - Seaborn
 - Jupyter Notebook
 
-<p align="center">
-
-<a href="https://deeksha-rana01/Netflix-Data-analysis.git">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
 
 ---
 
@@ -407,16 +355,6 @@ A productivity-focused task manager that keeps users organized with a clean and 
 <p>
 <img src="https://skillicons.dev/icons?i=react,javascript"/>
 </p>
-
-<p align="center">
-
-<a href="https://deeksha-rana01/Taskflow.git">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
 
 ---
 
@@ -507,36 +445,6 @@ and continuously improving every day.
 
 ⬇️ Connect With Me
 
-*(Continue with Part 3)*
-
-</div>
-
-<!-- ========================================================= -->
-<!--                  END OF PART 2                            -->
-<!-- ========================================================= -->
-
-<!-- ========================================================= -->
-<!--                  PART 3 - GITHUB DASHBOARD                -->
-<!-- ========================================================= -->
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=deeksha-rana01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeksha-rana01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deeksha-rana01&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -558,18 +466,6 @@ and continuously improving every day.
 <img src="https://github-profile-trophy.vercel.app/?username=deeksha-rana01&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/deeksha-rana01/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **⚠️ Note:** The snake animation won't work immediately. In the next message, I'll give you the GitHub Action workflow (`snake.yml`) to generate it automatically.
 
 ---
 
@@ -595,21 +491,6 @@ and continuously improving every day.
 
 ---
 
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/deeksha-rana01/YOUR_REPOSITORY_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deeksha-rana01&repo=https://deeksha-rana01/Smart-Campus-System.git&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/deeksha-rana01/YOUR_REPOSITORY_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deeksha-rana01&repo=https://deeksha-rana01/Food-ordering-website.git&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 # 💼 Developer Mindset
 
