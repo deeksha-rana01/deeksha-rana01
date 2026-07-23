@@ -463,7 +463,6 @@ and continuously improving every day.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deeksha-rana01&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
