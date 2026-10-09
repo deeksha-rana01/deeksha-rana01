@@ -205,7 +205,7 @@ Machine Learning Project | Predicting Passenger Survival
 
 A Machine Learning project that predicts whether a passenger survived the Titanic disaster using passenger information such as age, gender, passenger class, and other available features.
 
-✨ Highlights
+### ✨ Highlights
 🧹 Data Cleaning and Preprocessing
 📊 Exploratory Data Analysis (EDA)
 📈 Data Visualization
@@ -214,7 +214,8 @@ A Machine Learning project that predicts whether a passenger survived the Titani
 🎯 Model Evaluation and Accuracy Analysis
 🔮 Survival Predictions for Test Dataset
 📁 CSV File Generation for Predictions
-🛠 Built With
+
+### 🛠 Built With
 
 <p> <img src="https://skillicons.dev/icons?i=python,sklearn"/> <img src="https://skillicons.dev/icons?i=pandas"/> </p>
 
