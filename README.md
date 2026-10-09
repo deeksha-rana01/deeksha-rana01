@@ -9,7 +9,7 @@
 
 ### 🚀 Frontend Developer | MERN Stack | Data Science & AI Enthusiast | Machine Learning Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+Developer;MERN+Stack+Enthusiast;Exploring+Data+Science;Learning+Machine+Learning;Building+AI-Powered+Solutions;Analyzing+Data+and+Finding+Insights;Developing+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 
 <br>
 
