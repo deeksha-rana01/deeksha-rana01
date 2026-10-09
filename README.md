@@ -66,41 +66,7 @@ const deeksha = {
 
 # 🚀 Developer Snapshot
 
-<table>
-
-<tr>
-<td>💻 Role</td>
-<td>Frontend Developer</td>
-</tr>
-
-<tr>
-<td>⚙️ Specialization</td>
-<td>MERN Stack Development</td>
-</tr>
-
-<tr>
-<td>📍 Location</td>
-<td>Hoshiarpur,Punjab</td>
-</tr>
-
-<tr>
-<td>🎓 Status</td>
-<td>Computer Science Student</td>
-</tr>
-
-<tr>
-<td>💬 Ask Me About</td>
-<td>React • JavaScript • Node.js • MongoDB</td>
-</tr>
-
-<tr>
-<td>⚡ Fun Fact</td>
-<td>I enjoy turning ideas into interactive web applications.</td>
-</tr>
-
-</table>
-
----
+<table> <tr> <td>💻 Role</td> <td>Aspiring Data Scientist | Computer Science Student</td> </tr> <tr> <td>⚙️ Specialization</td> <td>Data Science • Machine Learning • Artificial Intelligence</td> </tr> <tr> <td>📍 Location</td> <td>Hoshiarpur, Punjab</td> </tr> <tr> <td>🎓 Status</td> <td>Computer Science Student</td> </tr> <tr> <td>💬 Ask Me About</td> <td>Python • Pandas • Data Analysis • Machine Learning</td> </tr> <tr> <td>⚡ Fun Fact</td> <td>I enjoy turning data into meaningful insights and building AI-powered solutions.</td> </tr> </table>
 
 # 🛠 Tech Arsenal
 
@@ -157,17 +123,12 @@ const deeksha = {
 # 🌱 Current Focus
 
 ```text
-✔ Building Better React Applications
-
-✔ Improving Backend Development
-
-✔ Writing Cleaner Code
-
-✔ REST API Development
-
-✔ Learning Software Design Principles
-
-✔ Exploring Open Source
+✔ Building Practical Data Science Projects
+✔ Learning Machine Learning Algorithms
+✔ Exploring Data Cleaning and Preprocessing
+✔ Creating Meaningful Data Visualizations
+✔ Improving Python Programming Skills
+✔ Applying AI to Real-World Problems
 ```
 
 ---
@@ -196,12 +157,12 @@ maintainable, and enjoyable to improve later.
 
 # 📚 Currently Exploring
 
-- ⚛ Advanced React Concepts
-- 🚀 Express.js Best Practices
-- 🌐 API Integration
-- 📦 Project Architecture
-- 🔥 Performance Optimization
-- 🧩 Component Reusability
+- 🐍 Python for Data Science
+- 📊 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning with Scikit-learn
+- 🧹 Data Cleaning and Feature Engineering
+- 📈 Data Visualization with Matplotlib
+- 🧠 Artificial Intelligence Applications
 **
 ---
 
@@ -379,6 +340,10 @@ A productivity-focused task manager that keeps users organized with a clean and 
 ```text
 React Performance Optimization
 
+Python for Data Science
+
+Pandas and NumPy
+
 Advanced JavaScript
 
 REST API Development
@@ -389,7 +354,9 @@ MongoDB Optimization
 
 Git & GitHub Workflows
 
-Component Architecture
+Machine Learning with Scikit-learn
+
+Data Visualization
 
 Clean Code Practices
 ```
@@ -449,15 +416,6 @@ and continuously improving every day.
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deeksha-rana01&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🏆 GitHub Achievements
 
