@@ -199,6 +199,29 @@ maintainable, and enjoyable to improve later.
 
 ---
 
+## 🚢 Titanic Survival Prediction
+
+Machine Learning Project | Predicting Passenger Survival
+
+A Machine Learning project that predicts whether a passenger survived the Titanic disaster using passenger information such as age, gender, passenger class, and other available features.
+
+✨ Highlights
+🧹 Data Cleaning and Preprocessing
+📊 Exploratory Data Analysis (EDA)
+📈 Data Visualization
+⚙️ Feature Encoding and Preparation
+🤖 Logistic Regression Model
+🎯 Model Evaluation and Accuracy Analysis
+🔮 Survival Predictions for Test Dataset
+📁 CSV File Generation for Predictions
+🛠 Built With
+
+<p> <img src="https://skillicons.dev/icons?i=python,sklearn"/> <img src="https://skillicons.dev/icons?i=pandas"/> </p>
+
+Skills: Python, Pandas, Matplotlib, Scikit-learn, Logistic Regression, Data Analysis, and Machine Learning.
+
+---
+
 ## 🏫 Smart Campus AI
 
 > **AI-Powered Complaint Management System for Educational Institutions**
