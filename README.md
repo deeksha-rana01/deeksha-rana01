@@ -7,7 +7,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **DEEKSHA**
 
-### 🚀 Frontend Developer | MERN Stack Developer | Lifelong Learner
+### 🚀 Frontend Developer | MERN Stack | Data Science & AI Enthusiast | Machine Learning Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 
